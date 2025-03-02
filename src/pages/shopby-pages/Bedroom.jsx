@@ -94,7 +94,7 @@ const Bedroom = () => {
   };
   return (
     <div className='bedroom-products'>
-      <BedroomHeader title={'Shop By Bedroom'} image_url={'/theme-images/bedroom-theme.jpg'}/>
+      <BedroomHeader title={'Shop By Bedroom'} image_url={'/theme-images/bedroom-theme.webp'}/>
       <BedroomProducts/>
     </div>
   )

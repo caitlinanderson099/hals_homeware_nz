@@ -100,7 +100,7 @@ const Trending = () => {
 
   return (
     <div className='trending-page'>
-        <TrendingHeader title={'Trending'} image_url={'/bg-images/trending-bg.jpg'}/>
+        <TrendingHeader title={'Trending'} image_url={'/bg-images/trending-bg.webp'}/>
         <TrendingProducts/>
     </div>
   )

@@ -7,7 +7,7 @@
         "price": 240.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bedroom/bed-frame.jpg","/product-images//bedroom/bed-frame.jpg"
+            "/product-images/bedroom/bed-frame.webp","/product-images//bedroom/bed-frame.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -26,7 +26,7 @@
         "price": 160.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bedroom/headboard.jpg","/product-images//bedroom/headboard.jpg"
+            "/product-images/bedroom/headboard.webp","/product-images//bedroom/headboard.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -43,7 +43,7 @@
         "price": 29.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bedroom/jewellery-box.jpg","/product-images//bedroom/jewellery-box.jpg"
+            "/product-images/bedroom/jewellery-box.webp","/product-images//bedroom/jewellery-box.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -60,7 +60,7 @@
         "price": 299.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bedroom/mirror.jpg","/product-images//bedroom/mirror.jpg"
+            "/product-images/bedroom/mirror.webp","/product-images//bedroom/mirror.webp"
         ],
         "featured": true,
         "featured_preview": true,
@@ -77,7 +77,7 @@
         "price": 90.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bedroom/modern-side-table.jpg","/product-images//bedroom/modern-side-table.jpg"
+            "/product-images/bedroom/modern-side-table.webp","/product-images//bedroom/modern-side-table.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -96,7 +96,7 @@
         "price": 146.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bedroom/tallboy-dresser.jpg","/product-images//bedroom/tallboy-dresser.jpg"
+            "/product-images/bedroom/tallboy-dresser.webp","/product-images//bedroom/tallboy-dresser.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -115,7 +115,7 @@
         "price": 99.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bedroom/victorian-bedside-table.jpg","/product-images//bedroom/victorian-bedside-table.jpg"
+            "/product-images/bedroom/victorian-bedside-table.webp","/product-images//bedroom/victorian-bedside-table.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -134,7 +134,7 @@
         "price": 199.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bedroom/white-dresser.jpg","/product-images//bedroom/white-dresser.jpg"
+            "/product-images/bedroom/white-dresser.webp","/product-images//bedroom/white-dresser.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -153,7 +153,7 @@
         "price": 39.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/candle-item.jpg","/product-images/candle-item.jpg"
+            "/product-images/candle-item.webp","/product-images/candle-item.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -171,7 +171,7 @@
         "price": 230.00,
         "description": "A television is an electronic device for viewing shows, movies, and broadcasts, featuring a screen and built-in speakers. Modern TVs offer HD or 4K resolution, smart capabilities, and connectivity for various devices. They are essential for entertainment in living rooms, bedrooms, and home theaters.",
         "product_images": [
-            "/product-images/tv.jpg","/product-images/tv.jpg"
+            "/product-images/tv.webp","/product-images/tv.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -205,7 +205,7 @@
         "price": 80.00,
         "description": "A kitchen set includes essential utensils and cookware for efficient meal preparation, such as pots, pans, knives, and measuring tools. It meets the needs of both beginner and experienced cooks. The set helps organize your kitchen and provides everything needed to create delicious meals.",
         "product_images": [
-            "/product-images/kitchen/kitchen-set.jpg","/product-images/kitchen/kitchen-set.jpg"
+            "/product-images/kitchen/kitchen-set.webp","/product-images/kitchen/kitchen-set.webp"
         ],
        "featured": false,
         "featured_preview": false,
@@ -223,7 +223,7 @@
         "price": 25.00,
         "description": "A kitchen set includes essential utensils and cookware for efficient meal preparation, such as pots, pans, knives, and measuring tools. It meets the needs of both beginner and experienced cooks. The set helps organize your kitchen and provides everything needed to create delicious meals.",
         "product_images": [
-            "/product-images/wall-shelf.jpg","/product-images/wall-shelf.jpg"
+            "/product-images/wall-shelf.webp","/product-images/wall-shelf.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -260,7 +260,7 @@
         "price": 55.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/cutlery-set.jpg","/product-images/kitchen/cutlery-set.jpg"
+            "/product-images/kitchen/cutlery-set.webp","/product-images/kitchen/cutlery-set.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -278,7 +278,7 @@
         "price": 399.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/fridge.jpg","/product-images/kitchen/fridge.jpg"
+            "/product-images/kitchen/fridge.webp","/product-images/kitchen/fridge.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -298,7 +298,7 @@
         "price": 19.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/livingroom/green-plant.jpg","/product-images/livingroom/green-plant.jpg"
+            "/product-images/livingroom/green-plant.webp","/product-images/livingroom/green-plant.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -316,7 +316,7 @@
         "price": 520.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/coffee-maker.jpg","/product-images/kitchen/coffee-maker.jpg"
+            "/product-images/kitchen/coffee-maker.webp","/product-images/kitchen/coffee-maker.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -335,7 +335,7 @@
         "price": 20.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/french-press.jpg","/product-images/kitchen/french-press.jpg"
+            "/product-images/kitchen/french-press.webp","/product-images/kitchen/french-press.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -354,7 +354,7 @@
         "price": 75.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/livingroom/tv-console.jpg","/product-images/livingroom/tv-console.jpg"
+            "/product-images/livingroom/tv-console.webp","/product-images/livingroom/tv-console.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -373,7 +373,7 @@
         "price": 85.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/toaster-oven.jpg","/product-images/kitchen/toaster-oven.jpg"
+            "/product-images/kitchen/toaster-oven.webp","/product-images/kitchen/toaster-oven.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -392,7 +392,7 @@
         "price": 59.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/pot-pan.jpg","/product-images/kitchen/pot-pan.jpg"
+            "/product-images/kitchen/pot-pan.webp","/product-images/kitchen/pot-pan.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -411,7 +411,7 @@
         "price": 89.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/livingroom/coffee-table.jpg","/product-images/livingroom/coffee-table.jpg"
+            "/product-images/livingroom/coffee-table.webp","/product-images/livingroom/coffee-table.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -430,7 +430,7 @@
         "price": 20.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/glass-jars.jpg","/product-images/kitchen/glass-jars.jpg"
+            "/product-images/kitchen/glass-jars.webp","/product-images/kitchen/glass-jars.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -449,7 +449,7 @@
         "price": 19.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/wooden-set.jpg","/product-images/kitchen/wooden-set.jpg"
+            "/product-images/kitchen/wooden-set.webp","/product-images/kitchen/wooden-set.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -468,7 +468,7 @@
         "price": 499.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/livingroom/navy-couch.jpg","/product-images/livingroom/navy-couch.jpg"
+            "/product-images/livingroom/navy-couch.webp","/product-images/livingroom/navy-couch.webp"
         ],
         "featured": true,
         "featured_preview": true,
@@ -487,7 +487,7 @@
         "price": 100.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/kitchen-set-blue.jpg","/product-images/kitchen/kitchen-set-blue.jpg"
+            "/product-images/kitchen/kitchen-set-blue.webp","/product-images/kitchen/kitchen-set-blue.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -506,7 +506,7 @@
         "price": 30.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/coloured-organiser.jpg","/product-images/kitchen/coloured-organiser.jpg"
+            "/product-images/kitchen/coloured-organiser.webp","/product-images/kitchen/coloured-organiser.webp"
         ],
         "featured": true,
         "featured_preview": false,
@@ -525,7 +525,7 @@
         "price": 470.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/kitchen/steel-oven.jpg","/product-images/kitchen/steel-oven.jpg"
+            "/product-images/kitchen/steel-oven.webp","/product-images/kitchen/steel-oven.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -544,7 +544,7 @@
         "price": 350.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bathroom/vanity-set.jpg","/product-images/bathroom/vanity-set.jpg"
+            "/product-images/bathroom/vanity-set.webp","/product-images/bathroom/vanity-set.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -563,7 +563,7 @@
         "price": 8.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bathroom/woven-organiser.jpg","/product-images/bathroom/woven-organiser.jpg"
+            "/product-images/bathroom/woven-organiser.webp","/product-images/bathroom/woven-organiser.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -582,7 +582,7 @@
         "price": 8.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bathroom/soap-dispenser.jpg","/product-images/bathroom/soap-dispenser.jpg"
+            "/product-images/bathroom/soap-dispenser.webp","/product-images/bathroom/soap-dispenser.webp"
         ],
         "featured": true,
         "featured_preview": false,
@@ -601,7 +601,7 @@
         "price": 420.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bathroom/bath-tub.jpg","/product-images/bathroom/bath-tub.jpg"
+            "/product-images/bathroom/bath-tub.webp","/product-images/bathroom/bath-tub.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -621,7 +621,7 @@
         "price": 32.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bathroom/towel-holder.jpg","/product-images/bathroom/towel-holder.jpg"
+            "/product-images/bathroom/towel-holder.webp","/product-images/bathroom/towel-holder.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -640,7 +640,7 @@
         "price": 24.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bathroom/towel-organiser.jpg","/product-images/bathroom/towel-organiser.jpg"
+            "/product-images/bathroom/towel-organiser.webp","/product-images/bathroom/towel-organiser.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -659,7 +659,7 @@
         "price": 12.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bathroom/toothbrushes.jpg","/product-images/bathroom/toothbrushes.jpg"
+            "/product-images/bathroom/toothbrushes.webp","/product-images/bathroom/toothbrushes.webp"
         ],
         "featured": true,
         "featured_preview": false,
@@ -678,7 +678,7 @@
         "price": 36.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/livingroom/golden-lamp.jpg","/product-images/livingroom/golden-lamp.jpg"
+            "/product-images/livingroom/golden-lamp.webp","/product-images/livingroom/golden-lamp.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -697,7 +697,7 @@
         "price": 24.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bathroom/diffuser.jpg","/product-images/bathroom/diffuser.jpg"
+            "/product-images/bathroom/diffuser.webp","/product-images/bathroom/diffuser.webp"
         ],
         "featured": true,
         "featured_preview": true,
@@ -716,7 +716,7 @@
         "price": 30.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/livingroom/bamboo-lamp.jpg","/product-images/livingroom/bamboo-lamp.jpg"
+            "/product-images/livingroom/bamboo-lamp.webp","/product-images/livingroom/bamboo-lamp.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -735,7 +735,7 @@
         "price": 70.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/bathroom/hair-styling-set.jpg","/product-images/bathroom/hair-styling-set.jpg"
+            "/product-images/bathroom/hair-styling-set.webp","/product-images/bathroom/hair-styling-set.webp"
         ],
         "featured": true,
         "featured_preview": false,
@@ -754,7 +754,7 @@
         "price": 65.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/livingroom/bamboo-ottoman.jpg","/product-images/livingroom/bamboo-ottoman.jpg"
+            "/product-images/livingroom/bamboo-ottoman.webp","/product-images/livingroom/bamboo-ottoman.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -773,7 +773,7 @@
         "price": 75.99,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/livingroom/checkered-ottoman.jpg","/product-images/livingroom/checkered-ottoman.jpg"
+            "/product-images/livingroom/checkered-ottoman.webp","/product-images/livingroom/checkered-ottoman.webp"
         ],
         "featured": false,
         "featured_preview": false,
@@ -792,7 +792,7 @@
         "price": 50.00,
         "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
         "product_images": [
-            "/product-images/livingroom/ceiling-light.jpg","/product-images/livingroom/ceiling-light.jpg"
+            "/product-images/livingroom/ceiling-light.webp","/product-images/livingroom/ceiling-light.webp"
         ],
         "featured": true,
         "featured_preview": false,

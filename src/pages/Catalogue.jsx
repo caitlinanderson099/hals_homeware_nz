@@ -61,22 +61,22 @@ const Catalogue = () => {
           <h2 className='subheading'>Shop By Room</h2>
           <div className='shop-by-cards'>
             <div className='shop-by-card'>
-              <img src="/theme-images/bedroom-theme.jpg" alt="" />
+              <img src="/theme-images/bedroom-theme.webp" alt="" />
               <a onClick={handleBedroom}>Shop Bedroom</a>
             </div>
   
             <div className='shop-by-card'>
-              <img src="/theme-images/bathroom-theme.jpg" alt="" />
+              <img src="/theme-images/bathroom-theme.webp" alt="" />
               <a onClick={handleBathroom}>Shop Bathroom</a>
             </div>
   
             <div className='shop-by-card'>
-              <img src="/theme-images/kitchen-theme.jpg" alt="" />
+              <img src="/theme-images/kitchen-theme.webp" alt="" />
               <a onClick={handleKitchen}>Shop Kitchen</a>
             </div>
   
             <div className='shop-by-card'>
-              <img src="/theme-images/livingroom-theme.jpg" alt="" />
+              <img src="/theme-images/livingroom-theme.webp" alt="" />
               <a onClick={handleLivingRoom}>Shop Living Room</a>
             </div>
           </div>
@@ -152,7 +152,7 @@ const Catalogue = () => {
 
   return (
     <div className='catalogue-page'>
-      <CatalogueHeader title={'Our Catalogue'} image_url={'/bg-images/catalogue-bg.jpg'}/>
+      <CatalogueHeader title={'Our Catalogue'} image_url={'/bg-images/catalogue-bg.webp'}/>
       <CategorySection/>
       <CatalogueProducts/>
     </div>

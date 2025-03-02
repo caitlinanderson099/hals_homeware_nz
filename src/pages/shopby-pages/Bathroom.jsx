@@ -94,7 +94,7 @@ const Bathroom = () => {
   };
   return (
     <div className='bathroom-products'>
-      <BathroomHeader title={'Shop By Bathroom'} image_url={'/theme-images/bathroom-theme.jpg'}/>
+      <BathroomHeader title={'Shop By Bathroom'} image_url={'/theme-images/bathroom-theme.webp'}/>
       <BathroomCatalogue/>
     </div>
   )

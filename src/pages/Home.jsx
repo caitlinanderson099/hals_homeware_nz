@@ -178,22 +178,22 @@ const Home = () => {
         <h2 className='subheading'>Shop By Room</h2>
         <div className='shop-by-cards'>
           <div className='shop-by-card'>
-            <img src="/theme-images/bedroom-theme.jpg" alt="" />
+            <img src="/theme-images/bedroom-theme.webp" alt="" />
             <a onClick={handleBedroom}>Shop Bedroom</a>
           </div>
 
           <div className='shop-by-card'>
-            <img src="/theme-images/bathroom-theme.jpg" alt="" />
+            <img src="/theme-images/bathroom-theme.webp" alt="" />
             <a onClick={handleBathroom}>Shop Bathroom</a>
           </div>
 
           <div className='shop-by-card'>
-            <img src="/theme-images/kitchen-theme.jpg" alt="" />
+            <img src="/theme-images/kitchen-theme.webp" alt="" />
             <a onClick={handleKitchen}>Shop Kitchen</a>
           </div>
 
           <div className='shop-by-card'>
-            <img src="/theme-images/livingroom-theme.jpg" alt="" />
+            <img src="/theme-images/livingroom-theme.webp" alt="" />
             <a onClick={handleLivingRoom}>Shop Living Room</a>
           </div>
         </div>
@@ -278,7 +278,7 @@ const Home = () => {
         <h2 className='subheading'>Where you can find us</h2>
         <div className='contact-location-cont'>
           <div className='contact-info'>
-            <img src="/hals-logo.png" width="200" height="200" alt="" />
+            <img src="/logos/hals-logo3.png" width="200" height="200" alt="" />
 
             <div className='contact-group'>
               <h3>Head Office:</h3>

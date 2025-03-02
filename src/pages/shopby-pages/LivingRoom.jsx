@@ -94,7 +94,7 @@ const LivingRoom = () => {
   };
   return (
     <div className='livingroom-products'>
-      <LivingRoomHeader title={'Shop By Living Room'} image_url={'/theme-images/livingroom-theme.jpg'}/>
+      <LivingRoomHeader title={'Shop By Living Room'} image_url={'/theme-images/livingroom-theme.webp'}/>
       <LivingRoomCatalogue/>
     </div>
   )

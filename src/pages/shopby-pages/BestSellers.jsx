@@ -100,7 +100,7 @@ const BestSellers = () => {
 
   return (
     <div className='bestseller-page'>
-        <BestSellerHeader title={'Best Sellers'} image_url={'/bg-images/bestseller-bg.jpg'}/>
+        <BestSellerHeader title={'Best Sellers'} image_url={'/bg-images/bestseller-bg.webp'}/>
         <BestSellerProducts/>
     </div>
   )

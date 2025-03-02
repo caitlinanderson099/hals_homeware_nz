@@ -94,7 +94,7 @@ const Kitchen = () => {
   };
   return (
     <div className='kitchen-products'>
-      <KitchenHeader title={'Shop By Kitchen'} image_url={'/theme-images/kitchen-theme.jpg'}/>
+      <KitchenHeader title={'Shop By Kitchen'} image_url={'/theme-images/kitchen-theme.webp'}/>
       <KitchenCatalogue/>
     </div>
   )
