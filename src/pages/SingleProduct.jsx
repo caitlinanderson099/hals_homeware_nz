@@ -1,52 +1,68 @@
-import { useParams } from 'react-router-dom'; // Hook to access URL params
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useContext } from 'react';
+import { useNavigate, useParams } from 'react-router-dom';
+import axios from 'axios';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import { Pagination, Navigation } from 'swiper/modules';
+import 'swiper/css';
+import 'swiper/css/pagination';
+import 'swiper/css/navigation';
+import { FaCartPlus } from 'react-icons/fa';
+
 
 const SingleProduct = () => {
-  const { id } = useParams(); // Get the product ID from the URL
-  const [product, setProduct] = useState(null); // State to store the product data
-  const [loading, setLoading] = useState(true); // State for loading state
-  const [error, setError] = useState(null); // State for any error that occurs
+  const { id } = useParams();
+  const [product, setProduct] = useState(null);
+  const navigate = useNavigate();
 
-  // Fetch product details using the 'id' from the URL
   useEffect(() => {
-    fetch('/PRODUCTS.json') // Path to your JSON file
-      .then(response => response.json())
-      .then(data => {
-        // Find the product that matches the 'id' from the URL
-        const selectedProduct = data.find(item => item.id === String(id)); // Ensure both are strings
-
-        if (selectedProduct) {
-          setProduct(selectedProduct); // Set the product data
-        } else {
-          setError('Product not found'); // Handle if no product is found
-        }
-
-        setLoading(false); // Set loading to false after data is fetched
+    axios.get('/PRODUCTS.json')
+      .then(response => {
+        const foundProduct = response.data.find(p => p.id === Number(id));
+        setProduct(foundProduct);
       })
-      .catch(err => {
-        setError('Error fetching product data'); // Handle fetch error
-        setLoading(false);
+      .catch(error => {
+        console.error('Error fetching product data:', error);
       });
-  }, [id]); // Re-run when the 'id' changes
+  }, [id]);
 
-  // Show loading state
-  if (loading) {
-    return <p>Loading...</p>;
+  if (!product) {
+    return <div>Loading...</div>;
   }
 
-  // Show error state if product is not found or fetch failed
-  if (error) {
-    return <p>{error}</p>;
-  }
+  const handleBack = (e) => {
+    e.preventDefault();
+    window.scrollTo(0,0);
+    navigate(-1);
+  };
+  
 
   return (
     <div className='single-product'>
-      <h2>{product.name}</h2>
-      <img src={product.product_images[0]} alt={product.name} />
-      <p>{product.description}</p>
-      <p>Category: {product.category}</p>
-      <p>Price: ${product.price}</p>
-      {/* Display more product details as needed */}
+      <button onClick={handleBack} className='back-btn primary'>Back</button>
+
+      <div className="single-cont">
+        <div className="product-images-cont">
+          <Swiper modules={[Pagination, Navigation]} pagination={{ clickable: true }} navigation spaceBetween={10} slidesPerView={1}>
+            {product.product_images.map((image, index) => (
+              <SwiperSlide key={index}>
+                <img src={image} alt={`${product.name} ${index + 1}`} style={{ cursor: 'pointer' }} />
+              </SwiperSlide>
+            ))}
+          </Swiper>
+        </div>
+
+        <div className="product-details">
+          <h2>{product.name}</h2>
+          <h3>{product.category}</h3>
+          <p>{product.description}</p>
+          <h4>Price: ${product.price}</h4>
+
+
+          <button className='primary add-btn'>
+            <FaCartPlus /> Add to Cart
+          </button>
+        </div>
+      </div>
     </div>
   );
 };

@@ -51,7 +51,7 @@ const Links = () => {
         <Route path='/trending' element={<Trending/>}/>
 
         {/* Single Page */}
-        <Route path="/singleproduct/id" element={<SingleProduct />} />
+        <Route path="/singleproduct/:id" element={<SingleProduct />} />
       </Routes>
     </>
   );

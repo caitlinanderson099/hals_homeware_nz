@@ -89,14 +89,17 @@ const Home = () => {
         addToCart(item, quantity);
       }
     };
-  
+
+    // Open Product Function
     const handleItemClick = (itemId) => {
-      console.log('Navigating to item with id:', itemId); // Debugging line
-      navigate(`/singleproduct/${itemId}`);
+      window.scrollTo(0,0);
+      let path = `/singleproduct/${itemId}`;
+      navigate(path);
     };
 
     const handleBestSeller = (e) => {
       e.preventDefault();
+      window.scrollTo(0,0);
       navigate('/bestsellers');
     };
   
@@ -112,7 +115,7 @@ const Home = () => {
   
               return (
                 <div 
-                  key={item.id} 
+                  key={item.id}
                   className="product-item"
                 >
                   <img src={item.product_images[0]} alt={item.name} onClick={() => handleItemClick(item.id)} // Navigate when item card is clicked
@@ -228,6 +231,13 @@ const Home = () => {
     navigate('/trending');
   };
 
+  // Open Product Function
+  const handleItemClick = (itemId) => {
+    window.scrollTo(0,0);
+    let path = `/singleproduct/${itemId}`;
+    navigate(path);
+  };
+
   return (
     <div className="trending-section">
       <h2 className="subheading">What's Trending?</h2>
@@ -240,7 +250,7 @@ const Home = () => {
 
             return (
               <div key={item.id} className="product-item">
-                <img src={item.product_images[0]} alt={item.name} />
+                <img src={item.product_images[0]} alt={item.name} onClick={() => handleItemClick(item.id)}/>
                 <div className="item-details">
                   <h2>{item.name}</h2>
                   <a>{item.category}</a>
