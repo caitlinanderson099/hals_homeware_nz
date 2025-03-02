@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FaBars } from 'react-icons/fa';
 import { FaShoppingCart } from "react-icons/fa";
+import { IoPersonCircleSharp } from "react-icons/io5";
 import { useCart } from "../component/context/CartContext"; // Import the cart context
 
 
@@ -31,7 +32,7 @@ const Navbar = () => {
                   Contact Us
                 </a>
                 <a href="#login-signup" onClick={() => setMenuOpen(false)}>
-                  Log In / Sign Up
+                <IoPersonCircleSharp />
                 </a>
                 <Link to="/cart" className="cart-icon"  onClick={() => setMenuOpen(false)}>
         <FaShoppingCart />

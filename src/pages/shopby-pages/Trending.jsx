@@ -80,10 +80,11 @@ const Trending = () => {
                             <span>{quantity}</span>
                             <button onClick={() => increaseQuantity(product.id)}>+</button>
                           </div>
+                          
+                          <h4 className='price'>${totalPrice}</h4> {/* Display total price */}
                           <button className='primary' onClick={() => handleAddToCart(product, quantity)}>
                             <FaCartPlus /> Add to Cart
                           </button>
-                          <h4 className='price'>${totalPrice}</h4> {/* Display total price */}
                         </div>
                       </div>
                     </div>
