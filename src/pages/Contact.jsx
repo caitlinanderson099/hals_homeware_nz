@@ -1,4 +1,6 @@
 import React from 'react'
+import { BsConeStriped } from 'react-icons/bs'
+
 
 const Contact = () => {
 
@@ -13,6 +15,7 @@ const Contact = () => {
   return (
     <div className='contact-page'>
       <ContactHeader title={'Contact Us'} image_url={'/bg-images/home-bg.webp'}/>
+            <h1>Work in progress <BsConeStriped/></h1>
       <h2 className='subheading'>Contact Us</h2>
     </div>
   )
