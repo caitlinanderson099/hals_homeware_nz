@@ -1,0 +1,806 @@
+[
+
+    {
+        "id": 1,
+        "name": "Wooden Bed Frame",
+        "category": "Bedroom",
+        "price": 240.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bedroom/bed-frame.jpg","/product-images//bedroom/bed-frame.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    {
+        "id": 2,
+        "name": "Classic Cream Pinched Headboard",
+        "category": "Bedroom",
+        "price": 160.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bedroom/headboard.jpg","/product-images//bedroom/headboard.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false
+    },
+
+    {
+        "id": 3,
+        "name": "Velvet Blush Jewellery Box",
+        "category": "Bedroom",
+        "price": 29.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bedroom/jewellery-box.jpg","/product-images//bedroom/jewellery-box.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false
+    },
+
+    {
+        "id": 4,
+        "name": "LED Hollywood Floor Mirror",
+        "category": "Bedroom",
+        "price": 299.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bedroom/mirror.jpg","/product-images//bedroom/mirror.jpg"
+        ],
+        "featured": true,
+        "featured_preview": true,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false
+    },
+
+    {
+        "id": 5,
+        "name": "White Modern Side Table",
+        "category": "Bedroom, Living Room",
+        "price": 90.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bedroom/modern-side-table.jpg","/product-images//bedroom/modern-side-table.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    },
+
+    {
+        "id": 6,
+        "name": "Modern White Tallboy Dresser",
+        "category": "Bedroom",
+        "price": 146.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bedroom/tallboy-dresser.jpg","/product-images//bedroom/tallboy-dresser.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    {
+        "id": 7,
+        "name": "Victorian-Style Bedside Table",
+        "category": "Bedroom",
+        "price": 99.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bedroom/victorian-bedside-table.jpg","/product-images//bedroom/victorian-bedside-table.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    {
+        "id": 8,
+        "name": "Modern White Dresser",
+        "category": "Bedroom",
+        "price": 199.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bedroom/white-dresser.jpg","/product-images//bedroom/white-dresser.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    {
+        "id": 9,
+        "name": "Home Fragrance Candle",
+        "category": "Bedroom, Living Room, Kitchen, Bathroom",
+        "price": 39.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/candle-item.jpg","/product-images/candle-item.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": true,
+        "kitchen": true,
+        "livingroom": true
+    },
+    {
+        "id": 10,
+        "name": "64inch Flat Screen TV",
+        "category": "Living Room, Bedroom",
+        "price": 230.00,
+        "description": "A television is an electronic device for viewing shows, movies, and broadcasts, featuring a screen and built-in speakers. Modern TVs offer HD or 4K resolution, smart capabilities, and connectivity for various devices. They are essential for entertainment in living rooms, bedrooms, and home theaters.",
+        "product_images": [
+            "/product-images/tv.jpg","/product-images/tv.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false
+    },
+    {
+        "id": 11,
+        "name": "Cushions",
+        "category": "Living Room, Bedroom",
+        "price": 60.00,
+        "description": "Cushions are soft, cozy accessories that add comfort and style to any space. They enhance decor with a variety of colors and textures. Perfect for lounging or as decorative accents in your home.",
+        "product_images": [
+            "/product-images/cushions.jpg","/product-images/cushions.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false,
+        "livingroom": true,
+        "kitchen": false
+    },
+    {
+        "id": 12,
+        "name": "Kitchen Set",
+        "category": "Kitchen",
+        "price": 80.00,
+        "description": "A kitchen set includes essential utensils and cookware for efficient meal preparation, such as pots, pans, knives, and measuring tools. It meets the needs of both beginner and experienced cooks. The set helps organize your kitchen and provides everything needed to create delicious meals.",
+        "product_images": [
+            "/product-images/kitchen/kitchen-set.jpg","/product-images/kitchen/kitchen-set.jpg"
+        ],
+       "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+    {
+        "id": 13,
+        "name": "Bamboo Wall Shelf Unit",
+        "category": "Kitchen, Living Room, Bedroom, Bathroom",
+        "price": 25.00,
+        "description": "A kitchen set includes essential utensils and cookware for efficient meal preparation, such as pots, pans, knives, and measuring tools. It meets the needs of both beginner and experienced cooks. The set helps organize your kitchen and provides everything needed to create delicious meals.",
+        "product_images": [
+            "/product-images/wall-shelf.jpg","/product-images/wall-shelf.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": true,
+        "livingroom": true,
+        "kitchen": true
+    },
+    {
+        "id": 14,
+        "name": "Multicolour Rug",
+        "category": "Bedroom, Living Room, Bathroom",
+        "price": 45.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/rug.jpg","/product-images/rug.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": true,
+        "livingroom": true,
+        "kitchen": false
+    },
+    
+    {
+        "id": 15,
+        "name": "Bohemian Cutlery Set",
+        "category": "Kitchen",
+        "price": 55.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/cutlery-set.jpg","/product-images/kitchen/cutlery-set.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+    {
+        "id": 16,
+        "name": "Cyan Blue Refrigerator",
+        "category": "Kitchen",
+        "price": 399.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/fridge.jpg","/product-images/kitchen/fridge.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+
+    },
+
+    {
+        "id": 17,
+        "name": "Small Succulent Plant",
+        "category": "Living Room, Kitchen, Bathroom, Bedroom",
+        "price": 19.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/livingroom/green-plant.jpg","/product-images/livingroom/green-plant.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    },
+    {
+        "id": 18,
+        "name": "Barista Style Coffee Machine",
+        "category": "Kitchen",
+        "price": 520.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/coffee-maker.jpg","/product-images/kitchen/coffee-maker.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 19,
+        "name": "Coffee French Press",
+        "category": "Kitchen",
+        "price": 20.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/french-press.jpg","/product-images/kitchen/french-press.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 20,
+        "name": "Modern White TV Console Unit",
+        "category": "Living Room",
+        "price": 75.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/livingroom/tv-console.jpg","/product-images/livingroom/tv-console.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": true,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    },
+
+    {
+        "id": 21,
+        "name": "Modern Toaster Oven",
+        "category": "Kitchen",
+        "price": 85.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/toaster-oven.jpg","/product-images/kitchen/toaster-oven.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 22,
+        "name": "Light Blue Pot Pan",
+        "category": "Kitchen",
+        "price": 59.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/pot-pan.jpg","/product-images/kitchen/pot-pan.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 23,
+        "name": "Wooden Stack Coffee Table",
+        "category": "Living Room",
+        "price": 89.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/livingroom/coffee-table.jpg","/product-images/livingroom/coffee-table.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    },
+
+    {
+        "id": 24,
+        "name": "Glass Jars",
+        "category": "Kitchen",
+        "price": 20.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/glass-jars.jpg","/product-images/kitchen/glass-jars.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 25,
+        "name": "Wooden Cutlery Set",
+        "category": "Kitchen",
+        "price": 19.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/wooden-set.jpg","/product-images/kitchen/wooden-set.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 26,
+        "name": "Navy Blue Two-Seater Couch",
+        "category": "Living Room",
+        "price": 499.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/livingroom/navy-couch.jpg","/product-images/livingroom/navy-couch.jpg"
+        ],
+        "featured": true,
+        "featured_preview": true,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    },
+
+    {
+        "id": 27,
+        "name": "Cyan Blue Kitchen Set",
+        "category": "Kitchen",
+        "price": 100.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/kitchen-set-blue.jpg","/product-images/kitchen/kitchen-set-blue.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 28,
+        "name": "Colourful Fridge Food Containers",
+        "category": "Kitchen",
+        "price": 30.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/coloured-organiser.jpg","/product-images/kitchen/coloured-organiser.jpg"
+        ],
+        "featured": true,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 29,
+        "name": "Black & Steel Oven Unit",
+        "category": "Kitchen",
+        "price": 470.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/kitchen/steel-oven.jpg","/product-images/kitchen/steel-oven.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 30,
+        "name": "White & Gold Bathroom Vanity",
+        "category": "Bathroom",
+        "price": 350.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bathroom/vanity-set.jpg","/product-images/bathroom/vanity-set.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": true,
+        "bedroom": false,
+        "bathroom": true,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    {
+        "id": 31,
+        "name": "White Woven Organisers",
+        "category": "Bathroom",
+        "price": 8.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bathroom/woven-organiser.jpg","/product-images/bathroom/woven-organiser.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": true,
+        "kitchen": true,
+        "livingroom": false
+    },
+
+    {
+        "id": 32,
+        "name": "Cyan Blue Soap Dispenser Set",
+        "category": "Bathroom, Kitchen",
+        "price": 8.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bathroom/soap-dispenser.jpg","/product-images/bathroom/soap-dispenser.jpg"
+        ],
+        "featured": true,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": true,
+        "kitchen": true,
+        "livingroom":  false
+    },
+
+    {
+        "id": 33,
+        "name": "Stand Alone Victorian Bath Tub",
+        "category": "Bathroom",
+        "price": 420.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bathroom/bath-tub.jpg","/product-images/bathroom/bath-tub.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": true,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    
+    {
+        "id": 34,
+        "name": "Circle Towel Holder",
+        "category": "Bathroom",
+        "price": 32.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bathroom/towel-holder.jpg","/product-images/bathroom/towel-holder.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": true,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    {
+        "id": 35,
+        "name": "Towel Holder & Organiser",
+        "category": "Bathroom",
+        "price": 24.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bathroom/towel-organiser.jpg","/product-images/bathroom/towel-organiser.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": true,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    {
+        "id": 36,
+        "name": "Lark Bamboo Toothbrushes",
+        "category": "Bathroom",
+        "price": 12.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bathroom/toothbrushes.jpg","/product-images/bathroom/toothbrushes.jpg"
+        ],
+        "featured": true,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": true,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    {
+        "id": 37,
+        "name": "Golden Desk Lamp",
+        "category": "Bedroom, Living Room",
+        "price": 36.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/livingroom/golden-lamp.jpg","/product-images/livingroom/golden-lamp.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    },
+
+    {
+        "id": 38,
+        "name": "Sheridan Diffuser",
+        "category": "Bathroom, Living Room, Kitchen, Bedroom",
+        "price": 24.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bathroom/diffuser.jpg","/product-images/bathroom/diffuser.jpg"
+        ],
+        "featured": true,
+        "featured_preview": true,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": true,
+        "kitchen": true,
+        "livingroom": true
+    },
+
+    {
+        "id": 39,
+        "name": "Bamboo Lamp",
+        "category": "Living Room, Bedroom",
+        "price": 30.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/livingroom/bamboo-lamp.jpg","/product-images/livingroom/bamboo-lamp.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": true,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    },
+
+    {
+        "id": 40,
+        "name": "Hair Styling Kit",
+        "category": "Bathroom",
+        "price": 70.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/bathroom/hair-styling-set.jpg","/product-images/bathroom/hair-styling-set.jpg"
+        ],
+        "featured": true,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": true,
+        "kitchen": false,
+        "livingroom": false
+    },
+
+    {
+        "id": 41,
+        "name": "Bamboo Ottoman",
+        "category": "Living Room",
+        "price": 65.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/livingroom/bamboo-ottoman.jpg","/product-images/livingroom/bamboo-ottoman.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    },
+
+    {
+        "id": 42,
+        "name": "Black & White Checkered Ottoman",
+        "category": "Living Room",
+        "price": 75.99,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/livingroom/checkered-ottoman.jpg","/product-images/livingroom/checkered-ottoman.jpg"
+        ],
+        "featured": false,
+        "featured_preview": false,
+        "trending": true,
+        "trending_preview": true,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    },
+
+    {
+        "id": 43,
+        "name": "Black Pendant Ceiling Light Shade",
+        "category": "Living Room",
+        "price": 50.00,
+        "description": "A bedside table is a compact, functional piece of furniture placed next to a bed. It offers convenient storage for essentials like lamps, clocks, and books. Practical and stylish, it adds an organized touch to bedroom decor.",
+        "product_images": [
+            "/product-images/livingroom/ceiling-light.jpg","/product-images/livingroom/ceiling-light.jpg"
+        ],
+        "featured": true,
+        "featured_preview": false,
+        "trending": false,
+        "trending_preview": false,
+        "bedroom": false,
+        "bathroom": false,
+        "kitchen": false,
+        "livingroom": true
+    }
+]
